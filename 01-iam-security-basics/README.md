@@ -19,6 +19,4 @@ Set up a secure AWS account foundation by applying IAM best practices instead of
 - The principle of **least privilege**: only grant the permissions strictly needed; VERY IMPORTANT
 - How groups simplify permission management for multiple users
 
-## 📂 Files in this project
-- [`policies/s3-readonly-policy.json`](./policies/s3-readonly-policy.json) — Custom IAM policy granting read-only access to S3
-- [`screenshots/`](./screenshots) — Visual proof of the setup (IAM user, MFA, policy attached)
+
