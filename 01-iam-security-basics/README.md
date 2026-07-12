@@ -1,7 +1,7 @@
 # IAM Security Basics
 
 ## Objective
-Set up a secure AWS account foundation by applying IAM best practices instead of relying on the root user for daily operations — following the principle of least privilege.
+Set up a secure AWS account foundation by applying IAM best practices instead of relying on the root user for daily operations following the principle of least privilege.
 
 ## What I did
 - [ ] Enabled MFA (Multi-Factor Authentication) on the root account
